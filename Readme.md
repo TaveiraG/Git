@@ -14,3 +14,5 @@ git commit -m: subindo arquivo para repositório;
 git branch -M "main": renomeando o nome da branch para main;
 
 git remote add origin: subir projeto para o github
+
+git push -u origin main: para subir o push para o github
